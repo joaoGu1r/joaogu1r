@@ -37,7 +37,7 @@ Minha "caixa de ferramentas" em constante expansão:
 
 Estou sempre em busca de troca de conhecimentos e novas oportunidades!
 
-* 💼 [LinkedIn](www.linkedin.com/in/joão-guilhermes)
+* 💼 [LinkedIn]www.linkedin.com/in/joão-guilhermes
 * 📧 [E-mail](mailto:joao.guilhermesilva@ufrpe.br)
 
 ---
