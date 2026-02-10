@@ -1,6 +1,6 @@
 # Olá, eu sou o João Guilherme! 👋
 
-### 🎓 Desenvolvedor em Formação | Licenciatura em Computação
+### 🎓 Desenvolvedor em Formação | Computação
 
 Estou em plena jornada de transição para a área de tecnologia, focado em construir uma base sólida em desenvolvimento de software. Meu objetivo é aplicar meus conhecimentos acadêmicos e técnicos em um estágio em 2026, contribuindo com soluções inovadoras e aprendizado contínuo.
 
