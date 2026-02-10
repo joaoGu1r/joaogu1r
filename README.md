@@ -2,15 +2,15 @@
 
 ### 🎓 Desenvolvedor em Formação | Computação
 
-Estou em plena jornada de transição para a área de tecnologia, focado em construir uma base sólida em desenvolvimento de software. Meu objetivo é aplicar meus conhecimentos acadêmicos e técnicos em um estágio em 2026, contribuindo com soluções inovadoras e aprendizado contínuo.
+Estou em plena jornada de transição para a área de tecnologia, focado em construir uma base sólida em desenvolvimento de software. Meu objetivo é aplicar meus conhecimentos acadêmicos e técnicos, contribuindo com soluções inovadoras e aprendizado contínuo.
 
 ---
 
 ### 🚀 Sobre Mim
 
-* 🎓 **Formação:** Atualmente cursando o 3º período de **Licenciatura em Computação** e graduado em **Análise e Desenvolvimento de Sistemas** (UNIBRA).
+* 🎓 **Formação:** Atualmente cursando o 3º período de **Computação**.
 * 💻 **Foco Técnico:** Desenvolvimento **Back-end** e **Data Analytics** utilizando Python.
-* 🎯 **Objetivo 2026:** Iniciar minha trajetória profissional como estagiário na área de tecnologia.
+* 🎯 **Objetivo 2026:** Iniciar minha trajetória profissional na área de tecnologia.
 * 🗣️ **Idiomas:** Estudando Inglês para expandir horizontes e documentação técnica.
 
 ---
