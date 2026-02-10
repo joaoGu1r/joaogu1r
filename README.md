@@ -8,8 +8,8 @@ Estou em plena jornada de transição para a área de tecnologia, focado em cons
 
 ### 🚀 Sobre Mim
 
-* 🎓 **Formação:** Atualmente cursando o 2º período de **Licenciatura em Computação** e graduado em **Análise e Desenvolvimento de Sistemas** (UNIBRA).
-* 💻 **Foco Técnico:** Especializando-me em **Python** e explorando o ecossistema **Frontend**.
+* 🎓 **Formação:** Atualmente cursando o 3º período de **Licenciatura em Computação** e graduado em **Análise e Desenvolvimento de Sistemas** (UNIBRA).
+* 💻 **Foco Técnico:** Desenvolvimento **Back-end** e **Data Analytics** utilizando Python.
 * 🎯 **Objetivo 2026:** Iniciar minha trajetória profissional como estagiário na área de tecnologia.
 * 🗣️ **Idiomas:** Estudando Inglês para expandir horizontes e documentação técnica.
 
