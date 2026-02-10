@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o João Guilherme! 👋
 
-<!--
-**joaoGu1r/joaogu1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Desenvolvedor em Formação | Licenciatura em Computação
 
-Here are some ideas to get you started:
+Estou em plena jornada de transição para a área de tecnologia, focado em construir uma base sólida em desenvolvimento de software. Meu objetivo é aplicar meus conhecimentos acadêmicos e técnicos em um estágio em 2026, contribuindo com soluções inovadoras e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+
+* 🎓 **Formação:** Atualmente cursando o 2º período de **Licenciatura em Computação** e graduado em **Análise e Desenvolvimento de Sistemas** (UNIBRA).
+* 💻 **Foco Técnico:** Especializando-me em **Python** e explorando o ecossistema **Frontend**.
+* 🎯 **Objetivo 2026:** Iniciar minha trajetória profissional como estagiário na área de tecnologia.
+* 🗣️ **Idiomas:** Estudando Inglês para expandir horizontes e documentação técnica.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+Minha "caixa de ferramentas" em constante expansão:
+
+* **Linguagens:** Python
+* **Banco de Dados:** SQL (MySQL)
+* **Ferramentas:** Git, GitHub, VS Code
+* **Soft Skills:** Resolução de problemas, pensamento analítico e colaboração.
+
+---
+
+### 📊 Github Stats
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogu1r&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogu1r&layout=compact&theme=nord)
+
+
+
+### 📫 Vamos nos conectar?
+
+Estou sempre em busca de troca de conhecimentos e novas oportunidades!
+
+* 💼 [LinkedIn](www.linkedin.com/in/joão-guilhermes)
+* 📧 [E-mail](mailto:joao.guilhermesilva@ufrpe.br)
+
+---
+⭐️ *Obrigado por visitar o meu perfil!*
